@@ -1,0 +1,7 @@
+# Ruby Documentation contribution
+
+Example class documentation
+
+== Usage
+
+  Example.hello #=> "Hello, World!"
