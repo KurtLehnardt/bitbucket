@@ -1,2 +1,2 @@
 console.log("elrbr")
-console.log("wyqay")
+console.log("ajtik")
