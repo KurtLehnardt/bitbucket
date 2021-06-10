@@ -1,0 +1,6 @@
+# Git ignore contribution
+*.log
+*.tmp
+node_modules/
+dist/
+build/
