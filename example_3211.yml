@@ -1,0 +1,5 @@
+# YAML contribution
+example:
+  name: "Hello World"
+  version: "1.0"
+  description: "Example configuration"
